@@ -1,4 +1,4 @@
-Fork of scratch-svg-renderer used by TurboWarp.
+Fork of scratch-svg-renderer used by CodeTorch.
 
 ## License
 
